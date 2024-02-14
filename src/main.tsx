@@ -11,12 +11,12 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
+    errorElement: <div>Page not found!</div>,
   },
   {
     path: "/courses/:abbreviation",
     element: <Course />,
     loader: ({ params }) => {
-      // return params;
       const found: Course | undefined = courses.find(
         (course) => course.abbreviation === params.abbreviation
       );

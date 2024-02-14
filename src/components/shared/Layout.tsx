@@ -1,5 +1,4 @@
 import { ReactNode } from "react";
-import ChenflixLogo from "../../assets/images/chenflix.png";
 
 type Props = {
   children?: ReactNode | undefined;
@@ -8,8 +7,12 @@ type Props = {
 export default function Layout(props: Props) {
   return (
     <div className="p-4 bg-black min-h-screen text-white">
-      <img src={ChenflixLogo} alt="Chenflix" className="w-40 mx-auto" />
-      <div className="max-w-7xl w-full mx-auto">{props.children}</div>
+      <div className="w-fit mx-auto">
+        <a href="/">
+          <img src="/images/chenflix.png" alt="Chenflix" className="w-40" />
+        </a>
+      </div>
+      <div className="max-w-7xl w-full mx-auto mt-8">{props.children}</div>
     </div>
   );
 }
