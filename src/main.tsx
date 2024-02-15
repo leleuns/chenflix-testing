@@ -1,11 +1,10 @@
 import ReactDOM from "react-dom/client";
-import App from "./pages/App.tsx";
+import App from "~/pages/App.tsx";
 import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Layout from "./components/shared/Layout.tsx";
-import Course from "./pages/Course.tsx";
+import Course from "./pages/courses/Course.tsx";
 import { courses } from "./coursedata/courses.ts";
-// import { courses } from "./coursedata/courses.ts";
 
 const router = createBrowserRouter([
 	{

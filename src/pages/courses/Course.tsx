@@ -1,5 +1,5 @@
 import { useLoaderData } from "react-router-dom";
-import CourseEvent from "../components/CourseEvent";
+import CourseEvent from "../../components/CourseEvent";
 
 export default function Course() {
 	const course: Course = useLoaderData() as Course;
