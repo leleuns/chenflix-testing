@@ -1,18 +1,18 @@
 import { ReactNode } from "react";
 
 type Props = {
-  children?: ReactNode | undefined;
+	children?: ReactNode | undefined;
 };
 
 export default function Layout(props: Props) {
-  return (
-    <div className="p-4 bg-black min-h-screen text-white">
-      <div className="w-fit mx-auto">
-        <a href="/">
-          <img src="/images/chenflix.png" alt="Chenflix" className="w-40" />
-        </a>
-      </div>
-      <div className="max-w-7xl w-full mx-auto mt-8">{props.children}</div>
-    </div>
-  );
+	return (
+		<div className="min-h-screen bg-black p-4 text-white">
+			<div className="mx-auto w-fit">
+				<a href="/">
+					<img src="/images/chenflix.png" alt="Chenflix" className="w-40" />
+				</a>
+			</div>
+			<div className="mx-auto mt-8 w-full max-w-7xl">{props.children}</div>
+		</div>
+	);
 }
