@@ -5,7 +5,6 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Layout from "./components/shared/Layout.tsx";
 import Course from "./pages/courses/Course.tsx";
 import { courses } from "./coursedata/courses.ts";
-import Footer from "./components/shared/Footer.tsx";
 
 const router = createBrowserRouter([
 	{
