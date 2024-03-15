@@ -49,7 +49,7 @@ export default function Capybara() {
 	scene.add(spotLight);
 
 	return (
-		<div className="Capybara h-[500px] w-screen xl:fixed xl:h-screen">
+		<div className="xl:h-100dvh h-[500px] w-screen xl:fixed">
 			<Canvas camera={camera} scene={scene}>
 				<Model />
 				<OrbitControls
