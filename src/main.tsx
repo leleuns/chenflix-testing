@@ -8,25 +8,30 @@ import { courses } from "./coursedata/courses.ts";
 
 const router = createBrowserRouter([
 	{
-		path: "/",
-		element: <Layout />,
-		errorElement: <div>Layout not found!</div>,
+
 		children: [
 			{
 				path: "/",
 				element: <Home />,
 				errorElement: <div>Page not found</div>,
-			},
-			{
-				path: "/courses/:abbreviation",
-				element: <Course />,
-				loader: ({ params }) => {
-					const found: Course | undefined = courses.find(
-						(course) => course.abbreviation === params.abbreviation,
-					);
-					return found ?? null;
-				},
-				errorElement: <div>Course not found</div>,
+			},	
+			{	
+			path: "/",
+			element: <Layout />,
+			errorElement: <div>Layout not found!</div>,
+			children: [
+					{
+						path: "/courses/:abbreviation",
+						element: <Course />,
+						loader: ({ params }) => {
+							const found: Course | undefined = courses.find(
+								(course) => course.abbreviation === params.abbreviation,
+							);
+							return found ?? null;
+						},
+						errorElement: <div>Course not found</div>,
+					},
+				],
 			},
 		],
 	},
