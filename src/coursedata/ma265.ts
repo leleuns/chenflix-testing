@@ -164,5 +164,89 @@ export const ma265_data: Course = {
 				"https://mediaspace.itap.purdue.edu/media/Summer-2018+-+MA265+-+Chen/0_v85yk2oz/94007531",
 			notes: "/notes/ma265/E2Review.pdf",
 		},
+		{
+			description: "5.4 — Eigenvectors and Linear Transformations",
+			date: "Mon 7/16",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Summer-2018+-+MA265+-+Chen/0_ri0ztt1o/94007531",
+			notes: "/notes/ma265/Lesson21.pdf",
+		},
+		{
+			description: "Appendix and 5.5 — Complex Eigenvalues",
+			date: "Tues 7/17",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Summer-2018+-+MA265+-+Chen/0_9yahf2l5/94007531",
+			notes: "/notes/ma265/Lesson22.pdf",
+		},
+		{
+			description: "5.7 — Applications to Differential Equations",
+			date: "Wed 7/18",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Summer-2018+-+MA265+-+Chen/0_pwux7xhb/94007531",
+			notes: "/notes/ma265/Lesson23.pdf",
+		},
+		{
+			description: "6.1 — Inner Product, Length, and Orthogonality",
+			date: "Thurs 7/19",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Summer-2018+-+MA265+-+Chen/0_0m8e0y4k/94007531",
+			notes: "/notes/ma265/Lesson24.pdf",
+		},
+		{
+			description: "6.2 — Orthogonal Sets",
+			date: "Fri 7/20",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Summer-2018+-+MA265+-+Chen/0_uu95m3hh/94007531",
+			notes: "/notes/ma265/Lesson25.pdf",
+		},
+		{
+			description: "6.3 — Orthogonal Projections",
+			date: "Mon 7/23",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Summer-2018+-+MA265+-+Chen/0_o0jumnlb/94007531",
+			notes: "/notes/ma265/Lesson26.pdf",
+		},
+		{
+			description: "6.4 — The Gram-Schmidt Process",
+			date: "Tues 7/24",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Summer-2018+-+MA265+-+Chen/0_btfxural/94007531",
+			notes: "/notes/ma265/Lesson27.pdf",
+		},
+		{
+			description: "6.5 — Least-Squares Problems",
+			date: "Wed 7/25",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Summer-2018+-+MA265+-+Chen/0_bfhcsh8t/94007531",
+			notes: "/notes/ma265/Lesson28.pdf",
+		},
+		{
+			description: "6.7 — Inner Produce Spaces",
+			date: "Thurs 7/26",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Summer-2018+-+MA265+-+Chen/0_ttulcwx1/94007531",
+			notes: "/notes/ma265/Lesson29.pdf",
+		},
+		{
+			description: "7.1 — Diagonalization of Symmetric Matrices (part 1)",
+			date: "Fri 7/27",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Summer-2018+-+MA265+-+Chen/0_5krgsl6v/94007531",
+			notes: "/notes/ma265/Lesson30.pdf",
+		},
+		{
+			description: "7.1 — Diagonalization of Symmetric Matrices (part 2)",
+			date: "Mon 7/30",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Summer-2018+-+MA265+-+Chen/0_gsk40hx2/94007531",
+			notes: "/notes/ma265/Lesson31.pdf",
+		},
+		{
+			description: "Final Exam Review",
+			date: "Tues 7/31",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Summer-2018+-+MA265+-+Chen/0_tg1e34dv/94007531",
+			notes: "/notes/ma265/Final_review.pdf",
+		},
 	],
 };
