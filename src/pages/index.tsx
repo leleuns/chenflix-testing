@@ -13,13 +13,13 @@ export default function Home() {
 					src="images/chenflix.png"
 					alt="Chenflix"
 				/>
-				<div className="mx-auto grid w-full grid-cols-1 gap-5 overflow-auto pt-24 md:grid-cols-2">
+				<div className="mx-auto grid w-full grid-cols-1 gap-5 overflow-auto pt-24 sm:grid-cols-2">
 					{courses.map((course) => (
 						<CoursePreview key={course.id} course={course} />
 					))}
 				</div>
 			</div>
-			<div className="bg-black pt-8">
+			<div className="bg-black p-4 pt-12">
 				<Footer />
 			</div>
 		</>
