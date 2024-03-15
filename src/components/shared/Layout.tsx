@@ -1,4 +1,5 @@
 import { Link, Outlet } from "react-router-dom";
+import Footer from "../Footer";
 
 export default function Layout() {
 	return (
@@ -11,6 +12,7 @@ export default function Layout() {
 			<div className="mx-auto mt-8 w-full max-w-7xl">
 				<Outlet />
 			</div>
+			<Footer />
 		</div>
 	);
 }
