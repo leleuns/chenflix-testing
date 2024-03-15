@@ -8,7 +8,7 @@ import { useWindowSize } from "usehooks-ts";
 const Model = () => {
 	const gltf = useLoader(
 		GLTFLoader,
-		"../../public/capybara_low_poly/scene.gltf",
+		"../../capybara_low_poly/scene.gltf",
 	);
 	const model = gltf.scene;
 	const groundGeometry = new THREE.PlaneGeometry(20, 20, 32, 32);
