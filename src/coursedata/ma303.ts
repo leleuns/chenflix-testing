@@ -111,5 +111,98 @@ export const ma303_data: Course = {
 			notes:
 				"https://www.math.purdue.edu/~chenjk/MA303S24/Lesson%2011%20%287.3%29.pdf",
 		},
+		{
+			description:
+				"Lesson 12 (7.4 Derivative, Integral, and Multiplication of Laplace Transforms)",
+			date: "Wed 2/7",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_14qb2abj",
+			notes:
+				"https://www.math.purdue.edu/~chenjk/MA303S24/Lesson%2012%20%287.4%29.pdf",
+		},
+		{
+			description: "Lesson 13 (7.5 Discontinuous Input Functions)",
+			date: "Fri 2/9",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_139w22au",
+			notes:
+				"https://www.math.purdue.edu/~chenjk/MA303S24/Lesson%2013%20%287.5%29.pdf",
+		},
+		{
+			description: "Lesson 14 (7.6 Impulse Functions)",
+			date: "Mon 2/12",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_ufv4be7v",
+			notes:
+				"https://www.math.purdue.edu/~chenjk/MA303S24/Lesson%2014%20%287.6%29.pdf",
+		},
+		{
+			description: "Lesson 15 (2.4 Euler's Method)",
+			date: "Wed 2/14",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_w6hzjknv",
+			notes:
+				"https://www.math.purdue.edu/~chenjk/MA303S24/Lesson%2015%20%282.4%29.pdf",
+		},
+		{
+			description: "Lesson 16 (2.5 Improved Euler Method)",
+			date: "Fri 2/16",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_q7g8kshy",
+			notes:
+				"https://www.math.purdue.edu/~chenjk/MA303S24/Lesson%2016%20%282.5%29.pdf",
+		},
+		{
+			description: "Exam 1 Review",
+			date: "Mon 2/19",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_a0r9wy3c",
+			notes:
+				"https://www.math.purdue.edu/~chenjk/MA303S24/Exam%201%20Review.pdf",
+		},
+		{
+			description: "Lesson 17 (2.6 The Runge-Kutta Method)",
+			date: "Wed 2/21",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_0g5uwk4z",
+			notes:
+				"https://www.math.purdue.edu/~chenjk/MA303S24/Lesson%2017%20%282.6%29.pdf",
+		},
+		{
+			description:
+				"Lesson 18 (9.1 Perodic Functions and Fourier Series (part 1))",
+			date: "Fri 2/23",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_9mfg7njy",
+			notes:
+				"https://www.math.purdue.edu/~chenjk/MA303S24/Lesson%2018%20%289.1-1%29.pdf",
+		},
+		{
+			description:
+				"Lesson 19 (9.1 Perodic Functions and Fourier Series (part 2))",
+			date: "Mon 2/26",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_3dusc35z",
+			notes:
+				"https://www.math.purdue.edu/~chenjk/MA303S24/Lesson%2019%20%289.1-2%29.pdf",
+		},
+		{
+			description:
+				"Lesson 20 (9.2 General Fourier Series and Convergence (part 1))",
+			date: "Wed 2/28",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_sako7iny",
+			notes:
+				"https://www.math.purdue.edu/~chenjk/MA303S24/Lesson%2020%20%289.2-1%29.pdf",
+		},
+		{
+			description:
+				"Lesson 21 (9.2 General Fourier Series and Convergence (part 2))",
+			date: "Fri 3/1",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_9w2wx1a3",
+			notes:
+				"https://www.math.purdue.edu/~chenjk/MA303S24/Lesson%2021%20%289.2-2%29.pdf",
+		},
 	],
 };
