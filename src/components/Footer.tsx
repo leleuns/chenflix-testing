@@ -1,6 +1,6 @@
 export default function Footer() {
 	return (
-		<footer className="z-10 mt-10 w-full border-2 border-red-700 pt-6 text-center text-stone-300">
+		<footer className="z-20 mt-10 w-full pt-6 text-center text-stone-300">
 			<div className="flex items-center justify-center p-2 text-xl">
 				<a
 					href="https://www.math.purdue.edu/~chenjk/"

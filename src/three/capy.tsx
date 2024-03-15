@@ -49,14 +49,15 @@ export default function Capybara() {
 	scene.add(spotLight);
 
 	return (
-		<div className="xl:h-100dvh h-[500px] w-screen xl:fixed">
+		<div className="h-screen w-screen fixed hidden lg:block">
 			<Canvas camera={camera} scene={scene}>
 				<Model />
 				<OrbitControls
-					enableZoom={width >= 1280}
+					// enableZoom={width >= 1280}
+					enableZoom = {false}
 					autoRotate
-					minDistance={width < 1280 ? 6 : 0}
-					maxDistance={width < 1280 ? 6 : 25}
+					minDistance={3}
+					maxDistance={25}
 					maxPolarAngle={Math.PI / 2}
 				/>
 			</Canvas>
