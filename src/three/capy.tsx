@@ -3,7 +3,6 @@ import { Canvas } from "@react-three/fiber";
 import { useLoader } from "@react-three/fiber";
 import { OrbitControls } from "@react-three/drei";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
-import { useWindowSize } from "usehooks-ts";
 
 const Model = () => {
 	const gltf = useLoader(
@@ -32,7 +31,6 @@ const Model = () => {
 };
 
 export default function Capybara() {
-	const { width = 0 } = useWindowSize();
 	const spotLight = new THREE.SpotLight(0xffffff, 500, 100, 0.5, 0.4);
 	spotLight.position.set(0, 5, 0);
 	spotLight.castShadow = true;
@@ -49,12 +47,11 @@ export default function Capybara() {
 	scene.add(spotLight);
 
 	return (
-		<div className="h-screen w-screen fixed hidden lg:block">
+		<div className="fixed hidden h-screen w-screen lg:block">
 			<Canvas camera={camera} scene={scene}>
 				<Model />
 				<OrbitControls
-					// enableZoom={width >= 1280}
-					enableZoom = {false}
+					enableZoom={false}
 					autoRotate
 					minDistance={3}
 					maxDistance={25}
