@@ -3,7 +3,7 @@ export const ma162_data: Course = {
 	path: "/ma162",
 	abbreviation: "ma16200",
 	name: "MA 16200",
-	semester: "EDIT HERE",
+	semester: "Fall 2023",
 	description: "Plane Analytic Geometry And Calculus II",
 	events: [
 		{

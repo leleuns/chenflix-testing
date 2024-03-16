@@ -3,7 +3,7 @@ export const ma303_data: Course = {
 	path: "/ma303",
 	abbreviation: "ma30300",
 	name: "MA 30300",
-	semester: "EDIT HERE",
+	semester: "Spring 2024",
 	description:
 		"Differential Equations And Partial Differential Equations For Engineering And the Sciences",
 	events: [

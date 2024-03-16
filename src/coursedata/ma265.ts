@@ -5,7 +5,7 @@ export const ma265_data: Course = {
 	path: "/ma265",
 	abbreviation: "ma26500",
 	name: "MA 26500",
-	semester: "EDIT HERE",
+	semester: "Summer 2018",
 	description: "Linear Algebra",
 	events: [
 		{

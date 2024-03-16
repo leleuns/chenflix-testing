@@ -3,7 +3,7 @@ export const ma261_data: Course = {
 	path: "/ma261",
 	abbreviation: "ma26100",
 	name: "MA 26100",
-	semester: "EDIT HERE",
+	semester: "Spring 2023",
 	description: "Multivariate Calculus",
 	events: [
 		{
