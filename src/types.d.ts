@@ -9,6 +9,7 @@ type CourseEvent = {
 type Course = {
 	id: number;
 	name: string;
+	semester: string;
 	path: string;
 	abbreviation: string;
 	description: string;
