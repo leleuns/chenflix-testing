@@ -87,7 +87,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 11 (Exam 1 Review)",
+				"Exam 1 Review",
 			date: "6/20",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-27_P/0_qflgqd14/96165051",
@@ -95,7 +95,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 12 (3.2 Solutions of Linear Homogeneous Eqs))",
+				"Lesson 11 (3.2 Solutions of Linear Homogeneous Eqs))",
 			date: "6/29",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-29_P/0_t67gvwvx/96165051",
@@ -103,7 +103,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 13 (3.3 Complex Roots of Characteristic Eq.)",
+				"Lesson 12 (3.3 Complex Roots of Characteristic Eq.)",
 			date: "6/30",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-30_P/0_fkeggx6s/96165051",
@@ -111,7 +111,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 14 (3.4 Repeated Roots; Reduction of Order)",
+				"Lesson 13 (3.4 Repeated Roots; Reduction of Order)",
 			date: "7/01",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-01_P/0_7be7ruby/96165051",
@@ -119,7 +119,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 15 (3.5 Nonhomogeneous Eqs: Method of Undetermined Coefficients)",
+				"Lesson 14 (3.5 Nonhomogeneous Eqs: Method of Undetermined Coefficients)",
 			date: "7/05",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-05_P/0_ev3agaz0/96165051",
@@ -127,7 +127,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 16 (3.6 Variation of Parameters)",
+				"Lesson 15 (3.6 Variation of Parameters)",
 			date: "7/06",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-06_P/0_jbz5iufl/96165051",
@@ -135,7 +135,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 17 (3.7 Mechanical Vibrations)",
+				"Lesson 16 (3.7 Mechanical Vibrations)",
 			date: "7/07",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-07_P/0_nx78qgow/96165051",
@@ -143,7 +143,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 18 (3.8 Forced Vibrations)",
+				"Lesson 17 (3.8 Forced Vibrations)",
 			date: "7/08",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-08_P/0_gqu9rfvt/96165051",
@@ -151,7 +151,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 19 (4.1 + 4.2 Higher-Order Linear Equations)",
+				"Lesson 18 (4.1 + 4.2 Higher-Order Linear Equations)",
 			date: "7/11",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-11_P/0_1pcvf04s/96165051",
@@ -159,7 +159,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 20 (4.3 The Method of Undetermined Coefficients)",
+				"Lesson 19 (4.3 The Method of Undetermined Coefficients)",
 			date: "7/12",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-12_P/0_vblvr27t/96165051",
@@ -167,7 +167,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 21 (6.1 The Laplace Transform)",
+				"Lesson 20 (6.1 The Laplace Transform)",
 			date: "7/13",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-13_P/0_ce3x57t5/96165051",
@@ -175,7 +175,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 22 (Exam 2 Review)",
+				"Exam 2 Review",
 			date: "7/14",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-14_P/0_2akvcxt0/96165051",
@@ -183,7 +183,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 23 (6.2 Solutions of Initial-Value Problems)",
+				"Lesson 21 (6.2 Solutions of Initial-Value Problems)",
 			date: "7/18",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-18_P/0_eo9giokh/96165051",
@@ -191,7 +191,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 24 (6.3 Step Functions)",
+				"Lesson 22 (6.3 Step Functions)",
 			date: "7/19",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-19_P/0_9e92gxpk/96165051",
@@ -199,7 +199,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 25 (6.4 DE's with Discontinuous Forcing Functions)",
+				"Lesson 23 (6.4 DE's with Discontinuous Forcing Functions)",
 			date: "7/20",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-20_P/0_bw5pppvr/96165051",
@@ -207,7 +207,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 26 (6.5 Impulse Function)",
+				"Lesson 24 (6.5 Impulse Function)",
 			date: "7/21",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-21_P/0_dhbdm17u/96165051",
@@ -215,7 +215,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 27 (6.6 The Convolution Integral)",
+				"Lesson 25 (6.6 The Convolution Integral)",
 			date: "7/22",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-22_P/0_wsac4ycb/96165051",
@@ -223,7 +223,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 28 (7.1 + 7.2 Systems of First Order Linear Eqs)",
+				"Lesson 26 (7.1 + 7.2 Systems of First Order Linear Eqs)",
 			date: "7/25",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-25_P/0_f1b7gr5b/96165051",
@@ -231,7 +231,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 29 (7.3 Linear Independence, Eigenvalues, Eigenvectors)",
+				"Lesson 27 (7.3 Linear Independence, Eigenvalues, Eigenvectors)",
 			date: "7/26",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-26_P/0_2vbrl4hd/96165051",
@@ -239,7 +239,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 30 (7.5 Homogeneous Systems with Constant Coefficients )",
+				"Lesson 28 (7.5 Homogeneous Systems with Constant Coefficients )",
 			date: "7/27",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-27_P/0_9mok5kj5/96165051",
@@ -247,7 +247,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 31 (7.6 Complex Eigenvalues)",
+				"Lesson 29 (7.6 Complex Eigenvalues)",
 			date: "7/28",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-28_P/0_yvvf6dud/96165051",
@@ -255,7 +255,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 32 (7.8 Repeated Eigenvalues)",
+				"Lesson 30 (7.8 Repeated Eigenvalues)",
 			date: "7/29",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-29_P/0_4ba2ycld/96165051",
@@ -263,7 +263,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 33 (7.9 Nonhomogeneous Systems)",
+				"Lesson 31 (7.9 Nonhomogeneous Systems)",
 			date: "8/01",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-08-01_P/0_eb6yt6nm/96165051",
@@ -271,7 +271,7 @@ export const ma266_data: Course = {
 		},
 		{
 			description:
-				"Lesson 34 (Final Exam Review)",
+				"Final Exam Review",
 			date: "8/02",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-08-02_P/0_e7e7g64u/96165051",
