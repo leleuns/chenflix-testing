@@ -11,7 +11,7 @@ export default function Footer() {
 			</div>
 			<div className="flex items-center justify-center pt-3">
 				<img
-					src="/public/footer/BoilerExamsLogoWHITE.png"
+					src="/footer/BoilerExamsLogoWHITE.png"
 					alt="Made by BoilerExams"
 					className="mb-1 w-28"
 				/>
@@ -22,7 +22,7 @@ export default function Footer() {
 					href="https://github.com/boilerexams/chenflix"
 					className="mb-3"
 				>
-					<img src="/public/footer/github-mark-white.png" className="w-8" />
+					<img src="/footer/github-mark-white.png" className="w-8" />
 				</a>
 			</div>
 			<div>
