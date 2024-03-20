@@ -12,7 +12,7 @@ export default function Footer() {
 			<div className="flex items-center justify-center pt-3">
 				<img
 					src="/footer/BoilerExamsLogoWHITE.png"
-					alt="Made by BoilerExams"
+					alt="Made by Boilerexams"
 					className="mb-1 w-28"
 				/>
 			</div>
