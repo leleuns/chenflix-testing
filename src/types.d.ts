@@ -4,6 +4,7 @@ type CourseEvent = {
 	videos?: string;
 	notes?: string;
 	boilerexams?: string;
+	additionalNotes?: string
 };
 
 type Course = {
