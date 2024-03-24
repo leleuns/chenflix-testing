@@ -1,6 +1,6 @@
 export default function Footer() {
 	return (
-		<footer className="z-10 mt-10 w-full border-2 border-red-700 pt-6 text-center text-stone-300">
+		<footer className="z-20 mt-10 w-full pt-6 text-center text-stone-300">
 			<div className="flex items-center justify-center p-2 text-xl">
 				<a
 					href="https://www.math.purdue.edu/~chenjk/"
@@ -11,8 +11,8 @@ export default function Footer() {
 			</div>
 			<div className="flex items-center justify-center pt-3">
 				<img
-					src="/public/footer/BoilerExamsLogoWHITE.png"
-					alt="Made by BoilerExams"
+					src="/footer/BoilerExamsLogoWHITE.png"
+					alt="Made by Boilerexams"
 					className="mb-1 w-28"
 				/>
 			</div>
@@ -22,7 +22,7 @@ export default function Footer() {
 					href="https://github.com/boilerexams/chenflix"
 					className="mb-3"
 				>
-					<img src="/public/footer/github-mark-white.png" className="w-8" />
+					<img src="/footer/github-mark-white.png" className="w-8" />
 				</a>
 			</div>
 			<div>

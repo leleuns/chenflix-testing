@@ -12,7 +12,11 @@ export default function Layout() {
 			<div className="mx-auto mt-8 w-full max-w-7xl">
 				<Outlet />
 			</div>
-			<Footer />
+			<div className="bg-black">
+				<Footer />
+			</div>
+			
 		</div>
+		
 	);
 }

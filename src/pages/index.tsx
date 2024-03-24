@@ -5,7 +5,7 @@ import Capybara from "../three/capy";
 
 export default function Home() {
 	return (
-		<>
+		<div className="bg-black">
 			<div className="min-h-screen bg-black text-white">
 				<Capybara />
 				<img
@@ -18,10 +18,10 @@ export default function Home() {
 						<CoursePreview key={course.id} course={course} />
 					))}
 				</div>
+				<div className="w-full p-4 pt-32 lg:absolute">
+					<Footer />
+				</div>
 			</div>
-			<div className="bg-black p-4 pt-12">
-				<Footer />
-			</div>
-		</>
+		</div>
 	);
 }
