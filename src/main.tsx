@@ -1,5 +1,6 @@
 import ReactDOM from "react-dom/client";
 import Home from "~/pages/index.tsx";
+import Edit from "~/pages/editPage.tsx";
 import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Layout from "./components/shared/Layout.tsx";
@@ -31,6 +32,11 @@ const router = createBrowserRouter([
 						errorElement: <div>Course not found</div>,
 					},
 				],
+			},
+			{
+				path: "/edit",
+				element: <Edit />,
+				errorElement: <div>Page not found</div>,
 			},
 		],
 	},
